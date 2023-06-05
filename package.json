@@ -30,7 +30,7 @@
   "dependencies": {
     "global": "~4.4.0",
     "is-function": "^1.0.1",
-    "parse-headers": "^2.0.0",
+    "parse-headers": "^2.0.5",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
